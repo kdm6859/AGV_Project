@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\Yolo_test2\main.cpp(33,40): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\Yolo_test2\main.cpp(37,42): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\Yolo_test2\main.cpp(41,46): warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\Yolo_test2\main.cpp(165,55): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  38 of 549 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    46 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Yolo_test2.vcxproj -> C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\x64\Release\Yolo_test2.exe
