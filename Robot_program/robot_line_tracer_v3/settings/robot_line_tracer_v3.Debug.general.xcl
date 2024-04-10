@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armstlink2.dll" 
+
+"C:\Users\kdm79\Desktop\자료\공부\cortex-M3 자료\cortex-M3_test\Demo\robot_line_tracer_v3\Debug\Exe\robot_line_tracer_v3.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\config\flashloader\ST\FlashSTM32F10xxB.board" 
+
+
+
+
