@@ -1,0 +1,14 @@
+﻿  A_star_algorithm.cpp
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\AGV_ver1\A_star_algorithm.cpp(193,22): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\AGV_ver1\A_star_algorithm.cpp(696,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MinHeap.cpp
+  main.cpp
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\AGV_ver1\main.cpp(381,72): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\AGV_ver1\main.cpp(402,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\AGV_ver1\main.cpp(487,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  13 of 391 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  AGV_ver1.vcxproj -> C:\Users\kdm79\Desktop\A_Star_algorithm_test_1\x64\Release\AGV_ver1.exe
